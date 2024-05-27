@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Transaction 1",
+        "code": "T001",
+        "id": 1,
+        "amount": 100.00,
+        "status": "Completed",
+        "date": "2024-05-20",
+        "paymentMethod": "Credit Card"
+    },
+    {
+        "title": "Transaction 2",
+        "code": "T002",
+        "id": 2,
+        "amount": 250.50,
+        "status": "Pending",
+        "date": "2024-05-21",
+        "paymentMethod": "UPI"
+    },
+    {
+        "title": "Transaction 3",
+        "code": "T003",
+        "id": 3,
+        "amount": 75.25,
+        "status": "Failed",
+        "date": "2024-05-22",
+        "paymentMethod": "Bank Transfer"
+    },
+    {
+        "title": "Transaction 4",
+        "code": "T004",
+        "id": 4,
+        "amount": 180.75,
+        "status": "Completed",
+        "date": "2024-05-23",
+        "paymentMethod": "Credit Card"
+    },
+    {
+        "title": "Transaction 5",
+        "code": "T005",
+        "id": 5,
+        "amount": 95.00,
+        "status": "Pending",
+        "date": "2024-05-24",
+        "paymentMethod": "Debit Card"
+    },
+    {
+        "title": "Transaction 6",
+        "code": "T006",
+        "id": 6,
+        "amount": 250.50,
+        "status": "Completed",
+        "date": "2024-05-25",
+        "paymentMethod": "UPI"
+    },
+    {
+        "title": "Transaction 7",
+        "code": "T007",
+        "id": 7,
+        "amount": 250.50,
+        "status": "Completed",
+        "date": "2024-05-26",
+        "paymentMethod": "UPI"
+    }
+]

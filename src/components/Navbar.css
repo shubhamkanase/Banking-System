@@ -1,0 +1,31 @@
+/* src/components/Navbar.css */
+
+nav {
+    background-color: #333; /* Dark background for the navbar */
+    padding: 1rem; /* Padding around the navbar */
+  }
+  
+  nav ul {
+    list-style-type: none; /* Remove bullet points from list items */
+    margin: 0;
+    padding: 0;
+    display: flex; /* Display list items in a row */
+    justify-content: space-around; /* Space items evenly */
+  }
+  
+  nav ul li {
+    margin: 0;
+  }
+  
+  nav ul li a {
+    color: #fff; /* White text color for links */
+    text-decoration: none; /* Remove underline from links */
+    padding: 0.5rem 1rem; /* Padding inside each link */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+  }
+  
+  nav ul li a:hover {
+    background-color: #555; /* Darker background on hover */
+    border-radius: 4px; /* Rounded corners on hover */
+  }
+  
